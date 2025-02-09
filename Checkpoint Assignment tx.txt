@@ -1,0 +1,88 @@
+                                                                     CHECKPOINT ASSIGNMENT – DAVID KABO
+
+Section 1: General Awareness
+Web Development Basics
+•	What is web development and why is it essential in the context of the internet?
+ANSWER
+Web development is the process of creating, building, and maintaining websites and web applications that operate on the internet. It encompasses a mix of coding, design, and content structuring to ensure a functional and visually appealing online presence.
+Web development can be categorized into three main areas:
+Front-End Development – This focuses on the user interface and experience, utilizing languages such as HTML, CSS, and JavaScript.
+Back-End Development – This takes care of the server-side logic, databases, and application functionality, employing languages like Python, PHP, Ruby, and Node.js.
+Full-Stack Development – This combines both front-end and back-end development skills to create complete web applications.
+Why is Web Development Important?
+In today’s digital landscape, web development is vital for several reasons:
+	 Global Connectivity – Websites are a primary means for businesses, individuals, and organizations to connect with people around the world.
+	 Business Growth – A well-designed website boosts brand visibility, enhances customer engagement, and drives revenue through e-commerce, digital marketing, and online services.
+	 Information Sharing – Websites serve as platforms for sharing knowledge, news, and resources with a wide audience instantly.
+	Innovation and Automation – Web applications streamline processes, automate workflows, and improve user experience through interactive and dynamic features.
+	Economic and Technological Advancement – The web development sector contributes to job creation and technological progress, fueling innovations like cloud computing, artificial intelligence, and blockchain integration.
+Without web development, the internet as we know it would not exist, making it a fundamental pillar of our digital world.
+•	Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+ANSWER:
+HTML stands for HyperText Markup Language.
+Primary Purpose in Web Development:
+HTML serves as the backbone of web pages, establishing the basic structure and layout of content on the internet. It employs tags and elements to delineate various sections of a webpage, including headings, paragraphs, images, links, and tables.
+Key Roles of HTML:
+	Structuring Content – Organizes the layout and hierarchy of a webpage.
+	Embedding Multimedia – Allows for the inclusion of images, videos, and audio.
+	 Linking Pages – Facilitates navigation through hyperlinks.
+	Semantic Meaning – Assists search engines in better understanding content with elements like <header>, <article>, and <footer>.
+In summary, HTML is essential for web development, working in tandem with CSS (for styling) and JavaScript (for interactivity) to build modern, functional websites.
+
+Section 2: Familiarity with CSS
+1.	CSS Understanding:
+o	Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+ANSWER
+CSS (Cascading Style Sheets) is a stylesheet language that plays a crucial role in web development by managing how a website looks and feels.
+It is used for the following in web development:
+	Styling Web Pages – It sets colors, fonts, backgrounds, and layouts to enhance the visual appeal of websites.
+	Responsive Design – It ensures that websites are visually appealing across various devices, including desktops, tablets, and smartphones.
+	Enhancing User Experience – It boosts readability and navigation by managing spacing, alignment, and animations.
+	Separation of Content & Design – It keeps HTML tidy by managing styles separately, which enhances maintainability and performance.
+CSS works in conjunction with HTML (for structure) and JavaScript (for interactivity) to build modern, dynamic web pages.
+
+Section 3: JavaScript and Its Importance
+1.	Introduction to JavaScript:
+o	Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+ANSWER
+JavaScript (JS) is a versatile, high-level programming language that plays a key role in web development, allowing websites to be interactive and dynamic.
+Why is JavaScript is crucial building for Interactive Websites because of the following:
+	Adds Interactivity – Facilitates real-time updates, animations, form validation, pop-ups, and dynamic content without needing to reload the page.
+	Enhances User Experience – Provides smooth navigation, interactive forms, and captivating visual effects.
+	Supports Front-End & Back-End Development – Functions on both the client side (browser) and server side (Node.js).
+	Powers Web Applications – Utilized in frameworks like React, Angular, and Vue.js to create modern web applications.
+	Integrates with APIs – Retrieves and processes data from external sources, boosting functionality.
+JavaScript, along with HTML (for structure) and CSS (for design), is fundamental to contemporary web development.
+
+
+
+
+
+
+
+Section 4: Introduction to React and Node.js
+1.	React and Node.js Awareness:
+o	Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+ANSWER
+React  
+React is a JavaScript library designed for creating interactive user interfaces (UIs) and was developed by Facebook.  
+It is used for:  
+	Creating dynamic, fast, and scalable front-end applications.  
+	Building single-page applications (SPAs) that offer seamless navigation.  
+	Developing component-based UIs that enhance code reusability and maintainability. 
+	Improving performance with Virtual DOM for efficient rendering.  
+Node.js 
+Node.js is a JavaScript runtime environment that enables JavaScript to run on the server.  
+It is used for:  
+	Building fast and scalable backend services (APIs, web apps, real-time apps).  
+	Managing asynchronous and event-driven operations, making it ideal for real-time applications like chats and streaming.  
+	Creating RESTful APIs and integrating with databases (MongoDB, MySQL, PostgreSQL).
+	Running JavaScript outside the browser, facilitating full-stack JavaScript development.  
+----- React (Front-end) + Node.js (Back-end) = Full-Stack JavaScript Applications!  
+
+Section 5: Bonus Question
+1.	Learning Intentions:
+o	Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+ANSWER
+I want to learn Web development as well of mastery of HTML, CSS, JavaScript, React and Node.js so that I can become a good full stack developer, as well as work on worldwide projects adding my own contributions to making Web development better for all.
+
